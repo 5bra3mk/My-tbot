@@ -3,7 +3,7 @@ import os
 
 api_id = int(os.getenv("23810708"))
 api_hash = os.getenv("975a25803061985218a636cc17f955d5")
-bot_token = os.getenv("8050458245:AAHNHo0QZ_EuPQa9PYXtjWPZmG4VQujwGKU")
+bot_token = os.getenv("7568630080:AAEQHj_5XpIwbWqqKWqxeeBZ2SmIguj9wJI")
 
 app = Client("my_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
